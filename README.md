@@ -7,5 +7,5 @@ If you spot any errors in the implementation(s), please let me know by submittin
 # License
 MIT
 
-#Citations
+# Citations
 Petar Veličković. 2013. Petarv-/Algorithms: Several algorithms and data structures implemented in C++ BY ME (credited to others where necessary). (April 2013). Retrieved January 14, 2024 from https://github.com/PetarV-/Algorithms 
